@@ -1,0 +1,17 @@
+/* * {
+  padding: 0;
+  margin: 0;
+} */
+body {
+  padding: 10px;
+}
+.header-box {
+  margin-bottom: 20px;
+}
+.inp-box {
+  margin-bottom: 10px;
+}
+.modal-body {
+  display: flex;
+  flex-direction: column;
+}
